@@ -7,8 +7,6 @@
 本项目开源地址:https://github.com/kingcardconfig/kingcardconfig/
 */
 
-//error_reporting(E_ERROR|E_WARNING|E_PARSE);
-
 include_once('public.php');
 
 $kingcardconfigcheckupdate=gethtml($configkingcardconfigcheckupdateurl,$configkingcardconfigcheckupdateua,$configtimeout,$configisgziphtmlfilename);

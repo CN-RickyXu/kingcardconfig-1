@@ -6,6 +6,7 @@
 修改者QQ:lbr-dev(3170482764),预留
 本项目开源地址:https://github.com/kingcardconfig/kingcardconfig/
 */
+error_reporting(E_ERROR|E_WARNING|E_PARSE);
 date_default_timezone_set('Asia/Shanghai');
 header("Content-type:text/html;charset=utf-8");
 include_once('config.php');
