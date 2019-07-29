@@ -1,0 +1,13 @@
+<?php
+/*
+第一修改者为作者
+修改者:lbr-dev,预留
+修改者GITHUB:lbr-dev(https://github.com/lbr-dev/),预留
+修改者QQ:lbr-dev(3170482764),预留
+本项目开源地址:https://github.com/kingcardconfig/kingcardconfig/
+*/
+date_default_timezone_set('Asia/Shanghai');
+header("Content-type:text/html;charset=utf-8");
+include_once('config.php');
+include_once('function.php');
+?>
